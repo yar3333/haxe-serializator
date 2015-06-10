@@ -1,0 +1,11 @@
+{
+  "name": "serializator",
+  "license": "LGPL",
+  "tags": ["macro","js"],
+  "description": "A build macro to exclude specified class fields from serialization.",
+  "contributors": ["yar3333"],
+  "releasenote": "A build macro to exclude specified class fields from serialization.",
+  "version": "1.0.0",
+  "url": "https://bitbucket.org/yar3333/haxe-serializator",
+  "dependencies": {}
+}
